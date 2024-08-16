@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://riteshtiwari05.github.io/Portfolio/](https://riteshtiwari05.github.io/Portfolio/)
 
-- 💬 Ask me about **FRONTEND & Backend**
+- 💬 Ask me about **FRONTEND & BACKEND**
 
 - 📫 How to reach me **riteshtiwari7376@gmail.com**
 
