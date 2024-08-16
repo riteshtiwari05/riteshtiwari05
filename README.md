@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/ritesh_tiwari__" target="blank"><img src="https://img.shields.io/twitter/follow/ritesh_tiwari__?logo=twitter&style=for-the-badge" alt="ritesh_tiwari__" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://riteshtiwari05.github.io/Portfolio/](https://riteshtiwari05.github.io/Portfolio/)
 
-- 💬 Ask me about **FRONTEND & BACKEND**
+- 💬 Ask me about **Frontend & Backend**
 
 - 📫 How to reach me **riteshtiwari7376@gmail.com**
 
