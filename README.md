@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritesh Tiwari</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F81%2F17%2F8b%2F81178b47a8598f0c81c4799f2cdd4057.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F366691594676038945%2F&docid=lJSchXM7DS93BM&tbnid=QCZULViz1nWbzM&vet=12ahUKEwil5L7Up_mHAxUvTWwGHc24I28QM3oECBsQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwil5L7Up_mHAxUvTWwGHc24I28QM3oECBsQAA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshtiwari05&label=Profile%20views&color=0e75b6&style=flat" alt="riteshtiwari05" /> </p>
 
